@@ -1,0 +1,25 @@
+{
+  "fields": {
+    "action": "Actie",
+    "actionDate": "Datum",
+    "stringData": "Stringgegevens",
+    "stringAdditionalData": "String extra gegevens"
+  },
+  "links": {
+    "queueItem": "Wachtrij-item",
+    "parent": "Ouder",
+    "object": "Voorwerp",
+    "campaign": "Campagne"
+  },
+  "options": {
+    "action": {
+      "Sent": "Verstuur"
+    }
+  },
+  "labels": {
+    "All": "Alles"
+  },
+  "presetFilters": {
+    "sent": "Verstuur"
+  }
+}

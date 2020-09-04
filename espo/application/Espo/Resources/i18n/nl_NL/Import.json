@@ -1,0 +1,72 @@
+{
+  "labels": {
+    "Return to Import": "Voor Import geef Enter",
+    "Run Import": "Start Importeren",
+    "Back": "Terug",
+    "Field Mapping": "Velden Overzicht",
+    "Default Values": "Voorkeur waarden",
+    "Add Field": "Veld toevoegen",
+    "Created": "Gemaakt",
+    "Updated": "Bijgewerkt",
+    "Result": "Resultaat",
+    "Show records": "Toon Velden",
+    "updatedCount": "Bijgewerkt (count)",
+    "Create and Update": "Creëren & bijwerken",
+    "Update Only": "Update alleen",
+    "Update by": "Update door",
+    "Set as Not Duplicate": "Instellen als niet dupliceren",
+    "File (CSV)": "Bestand (CSV)",
+    "First Row Value": "Eerste rijwaarde",
+    "Skip": "overslaan",
+    "Header Row Value": "Header rij-waarde ",
+    "Field": "veld",
+    "What to Import?": "Wat te importeren",
+    "Entity Type": "Type entiteit",
+    "What to do?": "Wat uit te voeren?",
+    "Properties": "Eigenschappen",
+    "Header Row": "Eerste rij",
+    "Person Name Format": "Format persoonsnaam",
+    "John Smith": "Johan Visser",
+    "Smith John": "Visser Johan",
+    "Smith, John": "Visser, Johan",
+    "Field Delimiter": "scheidingsteken tussen velden",
+    "Date Format": "Datumnotatie",
+    "Decimal Mark": "Decimaal teken",
+    "Text Qualifier": "Tekstkwalificatie",
+    "Time Format": "Tijd formaat",
+    "Currency": "Valuta",
+    "Preview": "Voorbeeld",
+    "Next": "volgende",
+    "Step 1": "Stap 1",
+    "Step 2": "Stap 2",
+    "Double Quote": "Dubbele aanhalingstekens",
+    "Single Quote": "enkel aanhalingsteken",
+    "Imported": "geïmporteerd",
+    "Duplicates": "duplicaten",
+    "Skip searching for duplicates": "Sla zoeken naar duplicaten over",
+    "Timezone": "Tijdzone",
+    "Remove Import Log": "Importlog verwijderen",
+    "New Import": "Nieuwe import",
+    "Import Results": "Resultaten importeren",
+    "Silent Mode": "Stille modus"
+  },
+  "fields": {
+    "file": "Bestand",
+    "updated": "Bijgewerkte records"
+  },
+  "messages": {
+    "inIdle": "Uitvoeren in idle (voor big data; via cron)",
+    "revert": "Hierdoor worden alle geïmporteerde records definitief verwijderd.",
+    "removeDuplicates": "Hierdoor worden alle geïmporteerde records die als duplicaten werden herkend, permanent verwijderd.",
+    "confirmRevert": "Hierdoor worden alle geïmporteerde records definitief verwijderd. Weet u het zeker?",
+    "confirmRemoveDuplicates": "Hierdoor worden alle geïmporteerde records die als duplicaten werden herkend, permanent verwijderd. Weet u het zeker?",
+    "removeImportLog": "Dit zal het importlogboek verwijderen. Alle geïmporteerde gegevens worden bewaard. Gebruik het als u zeker weet dat het importeren in orde is."
+  },
+  "options": {
+    "status": {
+      "Failed": "Mislukt",
+      "In Process": "Bezig met importeren",
+      "Complete": "Compleet"
+    }
+  }
+}

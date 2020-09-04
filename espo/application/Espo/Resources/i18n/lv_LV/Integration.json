@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "enabled": "Atļauts",
+    "clientId": "Klienta ID",
+    "clientSecret": "Klienta noslēpums",
+    "redirectUri": "Novirzīšanas URI",
+    "apiKey": "API atslēga"
+  },
+  "messages": {
+    "selectIntegration": "Atlasīt integrāciju no izvēlnes.",
+    "noIntegrations": "Neviena integrācija nav pieejama."
+  },
+  "titles": {
+    "GoogleMaps": "\"Google Maps\""
+  }
+}

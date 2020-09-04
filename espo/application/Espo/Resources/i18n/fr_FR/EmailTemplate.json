@@ -1,0 +1,18 @@
+{
+  "fields": {
+    "name": "Nom",
+    "status": "Statut",
+    "isHtml": "Html",
+    "body": "Corps",
+    "subject": "Objet",
+    "attachments": "Pièces-jointes",
+    "insertField": "Ajouter un champ",
+    "oneOff": "Une seule fois"
+  },
+  "labels": {
+    "Create EmailTemplate": "Créer un modèle d'email"
+  },
+  "presetFilters": {
+    "actual": "Réel"
+  }
+}

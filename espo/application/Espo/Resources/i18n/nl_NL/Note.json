@@ -1,0 +1,32 @@
+{
+  "fields": {
+    "attachments": "Bijlagen",
+    "targetType": "Doel",
+    "users": "Gebruikers",
+    "portals": "portals",
+    "isGlobal": "Is wereldwijd",
+    "isInternal": "Is intern (voor interne gebruikers)",
+    "related": "Verwant",
+    "createdByGender": "Gemaakt door geslacht",
+    "number": "Aantal"
+  },
+  "filters": {
+    "all": "Alles"
+  },
+  "messages": {
+    "writeMessage": "Schrijf je bericht hier"
+  },
+  "options": {
+    "targetType": {
+      "self": "Voor mezelf",
+      "users": "voor bepaalde gebruiker (s)",
+      "teams": "naar een specifiek(e) team(s)",
+      "all": "voor alle interne gebruikers",
+      "portals": "voor portaalgebruikers"
+    }
+  },
+  "links": {
+    "superParent": "Super ouder",
+    "related": "Verwant"
+  }
+}

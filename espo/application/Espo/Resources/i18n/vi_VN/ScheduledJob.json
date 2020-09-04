@@ -1,0 +1,24 @@
+{
+  "fields": {
+    "name": "Tên",
+    "status": "Trạng thái",
+    "job": "Công việc",
+    "scheduling": "Scheduling (crontab notation)"
+  },
+  "links": {
+    "log": "Nhật ký"
+  },
+  "labels": {
+    "Create ScheduledJob": "Lên lịch công việc"
+  },
+  "options": {
+    "job": {
+      "Cleanup": "Dọn dẹp",
+      "CheckInboundEmails": "Kiểm tra hộp thư đến"
+    },
+    "status": {
+      "Active": "Đang hoạt động",
+      "Inactive": "Chưa hoạt động"
+    }
+  }
+}

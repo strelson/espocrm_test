@@ -1,0 +1,18 @@
+{
+  "links": {
+    "users": "gebruikers"
+  },
+  "labels": {
+    "Access": "Toegang",
+    "Create PortalRole": "Maak portaalrol aan",
+    "Field Level": "Veldniveau"
+  },
+  "fields": {
+    "exportPermission": "Machtiging exporteren",
+    "massUpdatePermission": "Toestemming voor massa-update"
+  },
+  "tooltips": {
+    "exportPermission": "Bepaalt of portaalgebruikers de mogelijkheid hebben om records te exporteren.",
+    "massUpdatePermission": "Definieert of portaalgebruikers de mogelijkheid hebben om een grote hoeveelheid records bij te werken."
+  }
+}

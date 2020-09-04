@@ -1,0 +1,69 @@
+{
+  "fields": {
+    "name": "Naam",
+    "emailAddress": "E-mail",
+    "phoneNumber": "Telefoon",
+    "billingAddress": "Factuur Adres",
+    "shippingAddress": "Verzend Adres",
+    "description": "Beschrijving",
+    "industry": "Industrie",
+    "contactRole": "Titel",
+    "campaign": "Campagne",
+    "targetLists": "Doellijsten",
+    "targetList": "Doellijst",
+    "originalLead": "Oorspronkelijke lead",
+    "contactIsInactive": "Inactief"
+  },
+  "links": {
+    "contacts": "Contacten",
+    "opportunities": "Kansen",
+    "cases": "Tickets",
+    "documents": "Documenten",
+    "emailsPrimary": "E-mails (expanded)",
+    "targetLists": "Doellijsten",
+    "campaignLogRecords": "Campagne log",
+    "campaign": "Campagne",
+    "portalUsers": "Portaal-gebruikers",
+    "originalLead": "Oorspronkelijke lead"
+  },
+  "options": {
+    "type": {
+      "Customer": "Klant",
+      "Investor": "Investeerder"
+    },
+    "industry": {
+      "Banking": "Bankwezen",
+      "Building Materials & Equipment": "Bouwmaterialen en -apparatuur",
+      "Education": "Onderwijs",
+      "Electronics": "Electronica",
+      "Insurance": "Verzekeringen",
+      "Aerospace": "Ruimtevaart",
+      "Architecture": "Architectuur",
+      "Construction": "Bouw",
+      "Defense": "Defensie",
+      "Creative": "Creatief",
+      "Culture": "Cultuur",
+      "Consulting": "Consultancy",
+      "Electric Power": "Elektrische energie",
+      "Hospitality": "Gastvrijheid",
+      "Mass Media": "Media",
+      "Mining": "Mijnbouw",
+      "Music": "Muziek",
+      "Retail": "Retailhandel",
+      "Shipping": "Verzenden",
+      "Support": "Ondersteuning",
+      "Testing, Inspection & Certification": "Testen, inspectie en certificering",
+      "Wholesale": "Groothandel",
+      "Travel": "Reizen"
+    }
+  },
+  "labels": {
+    "Create Account": "Relatie Aanmaken",
+    "Copy Billing": "Kopie factuur",
+    "Set Primary": "Primair instellen"
+  },
+  "presetFilters": {
+    "customers": "Klanten",
+    "recentlyCreated": "Recent gemaakt"
+  }
+}

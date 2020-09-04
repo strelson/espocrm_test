@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "name": "Nome",
+    "version": "Versione",
+    "description": "Descrizione",
+    "isInstalled": "Installato",
+    "checkVersionUrl": "Un URL per controllare le nuove versioni"
+  },
+  "labels": {
+    "Uninstall": "Disinstallato",
+    "Install": "Installa"
+  },
+  "messages": {
+    "uninstalled": "L'Estensione {nome} è stata disinstallata"
+  }
+}

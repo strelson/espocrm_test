@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "status": "Statut",
+    "executeTime": "Exécuté à",
+    "attempts": "Tentatives restantes",
+    "failedAttempts": "Tentatives échouées",
+    "methodName": "Méthode",
+    "scheduledJob": "Tâche planifiée",
+    "data": "Données",
+    "method": "Méthode"
+  },
+  "options": {
+    "status": {
+      "Pending": "En attente",
+      "Success": "Succès",
+      "Running": "En cours",
+      "Failed": "Échec"
+    }
+  }
+}

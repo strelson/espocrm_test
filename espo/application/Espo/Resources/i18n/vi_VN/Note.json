@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "post": "Gửi",
+    "attachments": "Đính kèm",
+    "teams": "Nhóm",
+    "users": "Người dùng",
+    "type": "Loại"
+  },
+  "filters": {
+    "all": "Tất cả",
+    "posts": "Bài viết",
+    "updates": "Cập nhật"
+  }
+}

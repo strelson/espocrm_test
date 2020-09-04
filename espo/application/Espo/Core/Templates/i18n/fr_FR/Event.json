@@ -1,0 +1,8 @@
+{
+  "fields": {
+    "dateStart": "Date de début"
+  },
+  "labels": {
+    "Create {entityType}": "Créer un {entityTypeTranslated}"
+  }
+}

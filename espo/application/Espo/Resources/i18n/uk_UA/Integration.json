@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "enabled": "Увімкнено",
+    "clientId": "Клієнтський ID",
+    "clientSecret": "Секрет Клієнта",
+    "redirectUri": "URI перенаправлення",
+    "apiKey": "Ключ API"
+  },
+  "messages": {
+    "selectIntegration": "Виберіть інтеграцію з меню.",
+    "noIntegrations": "Жодних інтеграцій не доступно."
+  },
+  "titles": {
+    "GoogleMaps": "Google Карти"
+  }
+}

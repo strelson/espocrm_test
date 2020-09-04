@@ -1,0 +1,26 @@
+[
+    {
+        "label":"",
+        "rows":[
+            [
+                {
+                    "name":"name"
+                },
+                {
+                    "name":"entityType"
+                }
+            ],
+            [{"name":"variables","fullWidth":true, "view": "Template.Fields.Variables"}],
+            [{"name":"header","fullWidth":true}],
+            [{"name":"body","fullWidth":true}],
+            [{"name":"pageOrientation"}, {"name":"pageFormat"}],
+            [{"name":"pageWidth"}, {"name":"pageHeight"}],
+            [{"name":"fontFace"}, false],
+            [{"name":"topMargin"}, {"name":"bottomMargin"}],
+            [{"name":"leftMargin"}, {"name":"rightMargin"}],
+            [{"name":"printFooter"}, {"name":"printHeader"}],
+            [{"name":"footerPosition"}, {"name":"headerPosition"}],
+            [{"name":"footer","fullWidth":true}]
+        ]
+    }
+]

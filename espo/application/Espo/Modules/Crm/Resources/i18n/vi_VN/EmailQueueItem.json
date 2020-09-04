@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "name": "Tên",
+    "status": "Tình trạng",
+    "sentAt": "Ngày gửi"
+  },
+  "options": {
+    "status": {
+      "Pending": "Đang chờ",
+      "Sent": "Gửi",
+      "Failed": "Đã bị lỗi",
+      "Sending": "Đang gửi"
+    }
+  },
+  "presetFilters": {
+    "pending": "Đang chờ",
+    "sent": "Gửi",
+    "failed": "Bị lỗi"
+  }
+}

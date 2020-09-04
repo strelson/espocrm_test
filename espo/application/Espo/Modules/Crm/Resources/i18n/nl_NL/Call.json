@@ -1,0 +1,41 @@
+{
+  "fields": {
+    "name": "Record Naam",
+    "parent": "Behorende bij",
+    "dateStart": "Start Datum",
+    "dateEnd": "Eind Datum",
+    "direction": "Richting",
+    "duration": "Duur",
+    "description": "Beschrijving",
+    "users": "Gebruikers",
+    "contacts": "Contacten",
+    "reminders": "Herineringen",
+    "account": "Relatie",
+    "acceptanceStatus": "Acceptatiestatus"
+  },
+  "options": {
+    "status": {
+      "Planned": "Gepland",
+      "Held": "Vastgehouden",
+      "Not Held": "Niet vastgehouden"
+    },
+    "direction": {
+      "Outbound": "Uitgaande",
+      "Inbound": "Binnenkomende"
+    },
+    "acceptanceStatus": {
+      "None": "Geen",
+      "Accepted": "Geaccepteerd",
+      "Declined": "Geweigerd"
+    }
+  },
+  "labels": {
+    "Create Call": "Tel. Gesprek Aanmaken",
+    "Send Invitations": "Uitnodiging versturen"
+  },
+  "presetFilters": {
+    "planned": "Gepland",
+    "held": "Vasthouden",
+    "todays": "Huidig"
+  }
+}

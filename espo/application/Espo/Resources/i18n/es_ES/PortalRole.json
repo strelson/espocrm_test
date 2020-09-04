@@ -1,0 +1,14 @@
+{
+  "links": {
+    "users": "Usuarios"
+  },
+  "labels": {
+    "Access": "Acceder",
+    "Create PortalRole": "Crear rol del portal",
+    "Scope Level": "Nivel de acceso a entidades",
+    "Field Level": "Nivel de acceso a campos"
+  },
+  "fields": {
+    "exportPermission": "Permisos de exportación"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "enabled": "Activado",
+    "clientId": "ID Cliente",
+    "clientSecret": "Secreto del cliente",
+    "redirectUri": "Redireccionar URI",
+    "apiKey": " Clave para el API de JavaScript"
+  },
+  "messages": {
+    "selectIntegration": "Seleccionar una integración en menú",
+    "noIntegrations": "No hay integraciones disponibles"
+  }
+}

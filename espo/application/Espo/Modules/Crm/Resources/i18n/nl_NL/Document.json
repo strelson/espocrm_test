@@ -1,0 +1,34 @@
+{
+  "labels": {
+    "Create Document": "Document Aanmaken"
+  },
+  "fields": {
+    "name": "Record Naam",
+    "file": "Bestand",
+    "publishDate": "Publicatiedatum",
+    "expirationDate": "Vervaldatum",
+    "description": "Beschrijving",
+    "accounts": "Relatie"
+  },
+  "links": {
+    "accounts": "Relatie",
+    "opportunities": "Kansen",
+    "leads": "leads",
+    "contacts": "Contacten"
+  },
+  "options": {
+    "status": {
+      "Active": "Actief",
+      "Draft": "Concept",
+      "Expired": "Vervallen",
+      "Canceled": "Geannuleerd"
+    },
+    "type": {
+      "License Agreement": "Licentie Overeenkomst"
+    }
+  },
+  "presetFilters": {
+    "active": "Actief",
+    "draft": "Concept"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fields": {
+    "user": "Vartotojas",
+    "action": "Veiksmas",
+    "createdAt": "Data",
+    "target": "Tikslas",
+    "targetType": "Adresatų tipas",
+    "ipAddress": "IP Adresss",
+    "authLogRecord": "Auth žurnalo įrašas"
+  },
+  "links": {
+    "authToken": "Autentikavimo žymė",
+    "user": "Vartotojas",
+    "target": "Tikslas",
+    "authLogRecord": "Auth žurnalo įrašas"
+  },
+  "presetFilters": {
+    "onlyMy": "Tik mano"
+  },
+  "options": {
+    "action": {
+      "read": "Skaityti",
+      "update": "Atnaujinti",
+      "delete": "Ištrinti",
+      "create": "Sukurti"
+    }
+  }
+}

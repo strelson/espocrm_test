@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "dateFormat": "Format de la date",
+    "timeFormat": "Format de l'heure",
+    "timeZone": "Fuseau horaire",
+    "weekStart": "Premier jour de la semaine",
+    "thousandSeparator": "Séparateur de milliers",
+    "decimalMark": "Symbole décimal",
+    "defaultCurrency": "Devise par défaut",
+    "currencyList": "Liste des devises",
+    "language": "Langage",
+    "smtpServer": "Serveur",
+    "smtpSecurity": "Sécurité",
+    "smtpUsername": "Nom d'utilisateur",
+    "smtpPassword": "Mot de passe",
+    "smtpEmailAddress": "Adresse email",
+    "exportDelimiter": "Délimitant pour l'export",
+    "signature": "Signature email",
+    "dashboardTabList": "Liste des onglets",
+    "tabList": "Liste des onglets",
+    "defaultReminders": "Notifications par défaut",
+    "theme": "Thème",
+    "useCustomTabList": "Liste d'onglets personnalisé"
+  },
+  "options": {
+    "weekStart": {
+      "0": "Dimanche",
+      "1": "Lundi"
+    }
+  },
+  "labels": {
+    "User Interface": "Interface utilisateurs",
+    "Misc": "Divers"
+  }
+}

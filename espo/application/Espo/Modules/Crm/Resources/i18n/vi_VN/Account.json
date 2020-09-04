@@ -1,0 +1,51 @@
+{
+  "fields": {
+    "name": "Tên",
+    "phoneNumber": "Điện thoại",
+    "billingAddress": "Địa chủ thanh toán",
+    "shippingAddress": "Địa chỉ vận chuyển",
+    "description": "Mô tả",
+    "sicCode": "Mã Sic",
+    "type": "Loại",
+    "contactRole": "Vai trò",
+    "campaign": "Chiến dịch"
+  },
+  "links": {
+    "contacts": "Sổ liên lạc",
+    "opportunities": "Cơ hội",
+    "cases": "Trường hợp",
+    "documents": "Tài liệu",
+    "campaign": "Chiến dịch"
+  },
+  "options": {
+    "type": {
+      "Customer": "Khách hàng",
+      "Investor": "Nhà đầu tư",
+      "Partner": "Đối tác",
+      "Reseller": "Đại lý"
+    },
+    "industry": {
+      "Banking": "Ngân hàng",
+      "Computer": "Máy tính",
+      "Education": "Giáo dục",
+      "Electronics": "Điện máy",
+      "Finance": "Tín dụng",
+      "Insurance": "Bảo hiểm",
+      "Publishing": "Đang xuất bản",
+      "Real Estate": "Bất động sản",
+      "Service": "Dịch vụ",
+      "Sports": "Thể thao",
+      "Software": "Phần mềm",
+      "Technology": "Công nghệ",
+      "Support": "Hỗ trợ",
+      "Water": "Nước"
+    }
+  },
+  "labels": {
+    "Create Account": "Tạo tài khoản"
+  },
+  "presetFilters": {
+    "customers": "Khách hàng",
+    "partners": "Đối tác"
+  }
+}

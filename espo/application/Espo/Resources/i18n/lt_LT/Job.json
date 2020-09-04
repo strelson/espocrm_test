@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "status": "Statusas",
+    "executeTime": "Vykdyti",
+    "attempts": "Liko bandymų",
+    "failedAttempts": "Nepavykę bandymai",
+    "serviceName": "Paslauga",
+    "methodName": "Metodas",
+    "scheduledJob": "Suplanuoti darbai",
+    "data": "Duomenys",
+    "method": "Metodas (nebetinkamas)",
+    "scheduledJobJob": "Numatytas darbo pavadinimas"
+  },
+  "options": {
+    "status": {
+      "Pending": "Vykdoma",
+      "Success": "Pavyko",
+      "Running": "Vykdoma",
+      "Failed": "Nepavyko"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "fields": {
+        "imapHandlers": {
+            "type": "jsonObject"
+        },
+        "smtpHandlers": {
+            "type": "jsonObject"
+        },
+        "auth2FA": {
+            "type": "bool"
+        },
+        "auth2FAMethod": {
+            "type": "enum"
+        },
+        "auth2FATotpSecret": {
+            "type": "varchar",
+            "maxLength": 32
+        }
+    },
+    "links": {
+        "user": {
+            "type": "belongsTo",
+            "entity": "User"
+        }
+    }
+}

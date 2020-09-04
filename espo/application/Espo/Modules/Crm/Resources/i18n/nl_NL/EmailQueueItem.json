@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "name": "Record Naam",
+    "sentAt": "Datum verzonden",
+    "emailAddress": "E-mailadres"
+  },
+  "options": {
+    "status": {
+      "Pending": "In afwachting",
+      "Sent": "Verzonden",
+      "Failed": "Mislukt",
+      "Sending": "Verzenden"
+    }
+  },
+  "presetFilters": {
+    "pending": "In afwachting",
+    "sent": "Verstuur",
+    "failed": "Mislukt"
+  }
+}

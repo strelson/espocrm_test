@@ -1,0 +1,24 @@
+{
+  "fields": {
+    "name": "Nom",
+    "entryCount": "Compteur d'entrées",
+    "campaigns": "Campagnes",
+    "endDate": "Date de fin",
+    "targetLists": "Listes de cibles"
+  },
+  "links": {
+    "accounts": "Comptes",
+    "leads": "Prospects",
+    "campaigns": "Campagnes",
+    "massEmails": "Emails groupés"
+  },
+  "options": {
+    "type": {
+      "Television": "Télévision"
+    }
+  },
+  "labels": {
+    "Create TargetList": "Créer une liste de cibles",
+    "Opted Out": "Désinscrit"
+  }
+}

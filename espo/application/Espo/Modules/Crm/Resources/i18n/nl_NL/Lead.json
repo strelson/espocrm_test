@@ -1,0 +1,59 @@
+{
+  "labels": {
+    "Converted To": "Geconverteerd naar",
+    "Create Lead": "Lead Aanmaken",
+    "Convert": "Converteren",
+    "convert": "converteren"
+  },
+  "fields": {
+    "name": "Record Naam",
+    "emailAddress": "E-mail",
+    "title": "Titel",
+    "phoneNumber": "Telefoon",
+    "accountName": "Relatie naam",
+    "doNotCall": "Niet Bellen",
+    "address": "Adres",
+    "source": "Bron",
+    "opportunityAmount": "Bedrag Kansen",
+    "opportunityAmountConverted": "Bedrag Kans (geconverteerd)",
+    "description": "Beschrijving",
+    "createdAccount": "Relatie",
+    "createdOpportunity": "Kans",
+    "targetLists": "Doellijsten",
+    "industry": "Industrie",
+    "acceptanceStatus": "Acceptatiestatus",
+    "opportunityAmountCurrency": "Opportunity Bedrag Valuta",
+    "acceptanceStatusMeetings": "Acceptatiestatus (vergaderingen)",
+    "acceptanceStatusCalls": "Acceptatiestatus (oproepen)",
+    "convertedAt": "Omgezet op"
+  },
+  "links": {
+    "targetLists": "Doellijsten",
+    "createdAccount": "Relatie",
+    "createdOpportunity": "Kans",
+    "cases": "Tickets",
+    "documents": "documenten"
+  },
+  "options": {
+    "status": {
+      "New": "Nieuw",
+      "Assigned": "Toegewezen",
+      "In Process": "In Behandeling",
+      "Converted": "Geconverteerd",
+      "Recycled": "Opnieuw verwerkt",
+      "Dead": "Vervallen"
+    },
+    "source": {
+      "Call": "Tel. Gesprek",
+      "Email": "E-mail",
+      "Existing Customer": "Bestaande Klant",
+      "Web Site": "Webpagina",
+      "Other": "Overig"
+    }
+  },
+  "presetFilters": {
+    "active": "Actief",
+    "actual": "Werkelijke",
+    "converted": "Geconverteerd"
+  }
+}

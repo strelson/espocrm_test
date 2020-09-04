@@ -1,0 +1,89 @@
+{
+  "links": {
+    "parent": "Behorende bij",
+    "contacts": "Contacten",
+    "opportunities": "Kansen",
+    "emails": "E-mails",
+    "accounts": "Relaties",
+    "cases": "Tickets",
+    "documents": "Documenten",
+    "account": "Relatie",
+    "opportunity": "Kans"
+  },
+  "scopeNames": {
+    "Account": "Relatie",
+    "Opportunity": "Kans",
+    "Meeting": "Vergadering",
+    "Calendar": "Kalender",
+    "Call": "Tel. Gesprek",
+    "Task": "Taak",
+    "Case": "Ticket",
+    "Activities": "Activiteiten",
+    "KnowledgeBaseArticle": "Kennisbank-artikel",
+    "KnowledgeBaseCategory": "Kennisbank-categorie"
+  },
+  "scopeNamesPlural": {
+    "Account": "Relaties",
+    "Contact": "Contacten",
+    "Opportunity": "Kansen",
+    "Calendar": "Kalender",
+    "Case": "Tickets",
+    "Document": "Documenten",
+    "TargetList": "Doellijsten",
+    "MassEmail": "Mass E-mails",
+    "Activities": "Activiteiten",
+    "KnowledgeBaseArticle": "Kennisbank",
+    "KnowledgeBaseCategory": "Kennisbank-categorieën"
+  },
+  "dashlets": {
+    "Leads": "Mijn Leads",
+    "Opportunities": "Mijn Kansen",
+    "Tasks": "Mijn Taken",
+    "Cases": "Mijn Tickets",
+    "Calendar": "Kalender",
+    "Calls": "Mijn Tel.gesprekken",
+    "Meetings": "Mijn Afspraken",
+    "OpportunitiesByStage": "Kansen per fase",
+    "OpportunitiesByLeadSource": "Kansen per Leadbron",
+    "SalesByMonth": "Verkopen per maand",
+    "SalesPipeline": "Verkoop mogelijkheden"
+  },
+  "labels": {
+    "Create InboundEmail": "E-mail Gebruiker Instellen",
+    "Activities": "Activiteiten",
+    "History": "Historie",
+    "Attendees": "Genodigden",
+    "Schedule Meeting": "Afspraak Plannen",
+    "Schedule Call": "Geplande Oproep",
+    "Compose Email": "E-mail aanmaken",
+    "Log Meeting": "Afspraak vastleggen",
+    "Log Call": "Tel. Gesprek Vastleggen",
+    "Archive Email": "Archiveer E-mail",
+    "Create Task": "Taak Aanmaken"
+  },
+  "fields": {
+    "billingAddressCity": "Plaats",
+    "addressCity": "Plaats",
+    "billingAddressCountry": "Land",
+    "addressCountry": "Land",
+    "billingAddressPostalCode": "Postcode",
+    "addressPostalCode": "Postcode",
+    "billingAddressState": "Provincie",
+    "addressState": "Provincie",
+    "billingAddressStreet": "Straat",
+    "addressStreet": "Straat",
+    "billingAddressMap": "Kaart",
+    "addressMap": "Kaart",
+    "shippingAddressCity": "Plaats (Verzending)",
+    "shippingAddressStreet": "Straat (Verzending)",
+    "shippingAddressCountry": "Land (Verzending)",
+    "shippingAddressState": "Provincie (Verzending)",
+    "shippingAddressPostalCode": "Postcode (Verzending)",
+    "shippingAddressMap": "Kaart (verzending)"
+  },
+  "options": {
+    "reminderTypes": {
+      "Email": "E-mail"
+    }
+  }
+}

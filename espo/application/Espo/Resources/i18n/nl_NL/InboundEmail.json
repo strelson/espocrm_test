@@ -1,0 +1,67 @@
+{
+  "fields": {
+    "name": "Record Naam",
+    "emailAddress": "E-mailadres",
+    "username": "Gebruikersnaam",
+    "password": "Wachtwoord",
+    "port": "Poort",
+    "monitoredFolders": "Gecontroleerde Folders",
+    "fetchSince": "Opgehaald Vanaf",
+    "addAllTeamUsers": "Voor alle teamgebruikers",
+    "team": "Groep",
+    "sentFolder": "Verzonden map",
+    "storeSentEmails": "Verzonden e-mails opslaan",
+    "useSmtp": "Gebruik SMTP",
+    "smtpHost": "SMTP-host",
+    "smtpPort": "SMTP-poort",
+    "smtpSecurity": "SMTP-beveiliging",
+    "smtpUsername": "SMTP-gebruikersnaam",
+    "smtpPassword": "SMTP-wachtwoord",
+    "fromName": "Naam",
+    "smtpIsShared": "SMTP is gedeeld",
+    "smtpIsForMassEmail": "SMTP voor massa-e-mail",
+    "useImap": "Ophalen van e-mails",
+    "keepFetchedEmailsUnread": "Ongelezen e-mailberichten ongelezen houden",
+    "smtpAuthMechanism": "SMTP Auth Mechanisme"
+  },
+  "tooltips": {
+    "reply": "Notify email senders that their E-mails has been received.\n\n Only one email will be sent to a particular recipient during some period of time to prevent looping.",
+    "createCase": "Automatically create case from incoming E-mails.",
+    "assignToUser": "User emails/tickets will be assigned to.",
+    "team": "Team emails/tickets will be related to.",
+    "teams": "E-mails van teams worden toegewezen aan.",
+    "addAllTeamUsers": "E-mails worden weergegeven in de Inbox van alle gebruikers van opgegeven teams.",
+    "targetUserPosition": "Define the position of users which will be destributed with cases.",
+    "monitoredFolders": "Meerdere mappen moeten gescheiden worden door een komma.",
+    "smtpIsShared": "Indien ingeschakeld, kunnen gebruikers E-mails verzenden met behulp van deze SMTP. De beschikbaarheid wordt bepaald door functies via de toestemming van de Group Email Account.",
+    "smtpIsForMassEmail": "Indien ingeschakeld, is SMTP beschikbaar voor Massa-e-mail.",
+    "storeSentEmails": "Verzonden e-mails worden opgeslagen op de IMAP-server."
+  },
+  "options": {
+    "status": {
+      "Active": "Actief",
+      "Inactive": "Inactief"
+    },
+    "caseDistribution": {
+      "": "Geen",
+      "Direct-Assignment": "Direct toewijzen",
+      "Round-Robin": "Willekeurig",
+      "Least-Busy": "Minst bezet"
+    },
+    "smtpAuthMechanism": {
+      "plain": "Plat"
+    }
+  },
+  "labels": {
+    "Create InboundEmail": "E-mail Account Aanmaken",
+    "Actions": "Acties",
+    "Main": "Hoofd"
+  },
+  "messages": {
+    "couldNotConnectToImap": "Kan geen verbinding maken met IMAP server"
+  },
+  "links": {
+    "emails": "E-mails",
+    "assignToUser": "Toewijzen aan gebruiker"
+  }
+}

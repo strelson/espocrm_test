@@ -1,0 +1,56 @@
+{
+  "fields": {
+    "dateFormat": "Datumnotatie",
+    "timeFormat": "Tijdnotatie",
+    "timeZone": "Tijdzone",
+    "weekStart": "Eerste dag van de Week",
+    "thousandSeparator": "Duizendtal scheidingsteken",
+    "decimalMark": "Decimaal scheidingsteken",
+    "defaultCurrency": "Standaard Valuta",
+    "currencyList": "Valuta Lijst",
+    "language": "Taal",
+    "smtpPort": "Poort",
+    "smtpSecurity": "Beveiliging",
+    "smtpUsername": "Gebruikersnaam",
+    "emailAddress": "E-mail",
+    "smtpPassword": "Wachtwoord",
+    "smtpEmailAddress": "E-mailadres",
+    "exportDelimiter": "Scheidingsteken Export",
+    "useCustomTabList": "Eigen Tab List",
+    "receiveAssignmentEmailNotifications": "Ontvang bevestiging toewijzingen per email.",
+    "receiveMentionEmailNotifications": "E-mailmeldingen over vermeldingen in berichten",
+    "receiveStreamEmailNotifications": "E-mailberichten over berichten en statusupdates over berichten en statusupdates",
+    "dashboardLayout": "Dashboard indeling",
+    "emailReplyForceHtml": "E-mailantwoord in HTML",
+    "autoFollowEntityTypeList": "Auto-Follow",
+    "emailReplyToAllByDefault": "Standaard e-mail beantwoorden",
+    "doNotFillAssignedUserIfNotRequired": "Vul de toegewezen gebruiker niet vooraf in bij het maken van een record",
+    "followEntityOnStreamPost": "Record automatisch volgen na plaatsing in Stream",
+    "followCreatedEntities": "Automatisch gemaakte records volgen",
+    "followCreatedEntityTypeList": "Automatisch gemaakte records van specifieke entiteitstypen volgen",
+    "emailUseExternalClient": "Gebruik een externe e-mailclient",
+    "scopeColorsDisabled": "Schakel bereikkleuren uit",
+    "tabColorsDisabled": "Tabtabellen uitschakelen",
+    "assignmentNotificationsIgnoreEntityTypeList": "Kennisgevingen van toewijzing in de applicatie",
+    "assignmentEmailNotificationsIgnoreEntityTypeList": "Kennisgevingen van e-mailtoewijzingen"
+  },
+  "options": {
+    "weekStart": {
+      "0": "Zondag",
+      "1": "Maandag"
+    }
+  },
+  "labels": {
+    "Notifications": "Meldingen",
+    "User Interface": "Gebruikers Interface",
+    "Misc": "Versch.",
+    "Locale": "Lokaal",
+    "Reset Dashboard to Default": "Dashboard instellen op standaard"
+  },
+  "tooltips": {
+    "autoFollowEntityTypeList": "User will automatically follow all new records of the selected entity types, will see information in the stream and receive notifications.",
+    "doNotFillAssignedUserIfNotRequired": "Bij het aanmaken van een record toegewezen gebruiker zal de gebruiker niet worden ingevuld met een eigen gebruikersnaam, tenzij het veld verplicht is.",
+    "followCreatedEntities": "Bij het aanmaken van nieuwe records worden deze automatisch gevolgd, zelfs als ze aan een andere gebruiker worden toegewezen.",
+    "followCreatedEntityTypeList": "Wanneer u nieuwe records van geselecteerde entiteittypes aanmaakt, worden deze automatisch gevolgd, zelfs als ze aan een andere gebruiker worden toegewezen."
+  }
+}

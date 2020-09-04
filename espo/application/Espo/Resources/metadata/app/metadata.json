@@ -1,0 +1,21 @@
+{
+    "frontendHiddenPathList": [
+        ["app", "metadata"],
+        ["app", "loaders"],
+        ["app", "containerServices"],
+        ["app", "portalContainerServices"],
+        ["app", "serviceContainer"],
+        ["app", "consoleCommands"],
+        ["app", "formula", "functionClassNameMap"],
+        ["app", "fileStorage", "implementationClassNameMap"],
+        ["app", "emailNotifications", "handlerClassNameMap"],
+        ["app", "client"],
+        ["app", "language", "aclDependencies"],
+        ["app", "templateHelpers"],
+        ["app", "appParams"],
+        ["app", "cleanup"],
+        ["app", "auth2FAMethods", "__ANY__", "implementationClassName"],
+        ["app", "auth2FAMethods", "__ANY__", "implementationUserClassName"],
+        ["authenticationMethods", "__ANY__", "implementationClassName"]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "width": "Szerokość (%)",
+    "notSortable": "Niesortowalne",
+    "align": "Wyrównanie",
+    "panelName": "Nazwa panelu",
+    "style": "Styl"
+  },
+  "options": {
+    "align": {
+      "left": "Lewy",
+      "right": "Prawy"
+    },
+    "style": {
+      "default": "Domyślny",
+      "success": "Powodzenie",
+      "danger": "Niebezpieczeństwo",
+      "info": "Informacje",
+      "warning": "Ostrzeżenie",
+      "primary": "Główny"
+    }
+  },
+  "labels": {
+    "New panel": "Nowy panel",
+    "Layout": "Układ"
+  }
+}

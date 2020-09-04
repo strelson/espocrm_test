@@ -1,0 +1,36 @@
+{
+    "fields": {
+        "width": "Width (%)",
+        "link": "Link",
+        "notSortable": "Not Sortable",
+        "align": "Align",
+        "panelName": "Panel Name",
+        "style": "Style",
+        "sticked": "Sticked",
+        "isLarge": "Large font size",
+        "hidden": "Hidden",
+        "dynamicLogicVisible": "Conditions making panel visible"
+    },
+    "options": {
+        "align": {
+            "left": "Left",
+            "right": "Right"
+        },
+        "style": {
+            "default": "Default",
+            "success": "Success",
+            "danger": "Danger",
+            "info": "Info",
+            "warning": "Warning",
+            "primary": "Primary"
+        }
+    },
+    "labels": {
+        "New panel": "New panel",
+        "Layout": "Layout"
+    },
+    "tooltips": {
+        "hiddenPanel": "Need to click 'show more' to see the panel.",
+        "link": "If checked, then a field value will be displayed as a link pointing to the detail view of the record. Usually it is used for *Name* fields."
+    }
+}

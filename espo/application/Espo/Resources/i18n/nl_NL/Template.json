@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "name": "Record Naam",
+    "body": "Inhoud",
+    "variables": "Beschikbare placeholders",
+    "pageOrientation": "Paginaoriëntatie",
+    "pageFormat": "Papierformaat",
+    "pageWidth": "Paginabreedte (mm)",
+    "pageHeight": "Pagina Hoogte (mm)"
+  },
+  "tooltips": {
+    "variables": "Kopieer en plak de benodigde aanduiding naar koptekst, hoofdtekst of voettekst."
+  },
+  "options": {
+    "pageOrientation": {
+      "Portrait": "Portret",
+      "Landscape": "Landschap"
+    },
+    "placeholders": {
+      "today": "Vandaag (date)",
+      "now": "Nu (datum-tijd)"
+    },
+    "fontFace": {
+      "pdfasymbol": "PDFA-symbool",
+      "symbol": "Symbool"
+    },
+    "pageFormat": {
+      "Custom": "Aangepast"
+    }
+  }
+}

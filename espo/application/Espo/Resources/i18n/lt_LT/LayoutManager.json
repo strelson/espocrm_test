@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "width": "Ilgis (%)",
+    "link": "Nuoroda",
+    "notSortable": "Nerūšiuojama",
+    "align": "Lygiuoti",
+    "panelName": "Panelės pavadinimas",
+    "style": "Stilius",
+    "sticked": "Prikabinta",
+    "isLarge": "Didelis šrifto dydis",
+    "dynamicLogicVisible": "Sąlygos, dėl kurių skydas matomas"
+  },
+  "options": {
+    "align": {
+      "left": "Kairėje",
+      "right": "Dešinėje"
+    },
+    "style": {
+      "default": "Numatytas",
+      "success": "Sėminga",
+      "danger": "Pavojus",
+      "info": "Informacija",
+      "warning": "Įspėjimas",
+      "primary": "Pirminis"
+    }
+  },
+  "labels": {
+    "New panel": "Nauja panelė",
+    "Layout": "Išdėtymas"
+  }
+}

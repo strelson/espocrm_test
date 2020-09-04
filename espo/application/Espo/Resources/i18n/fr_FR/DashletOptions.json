@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "title": "Titre",
+    "dateFrom": "Début",
+    "dateTo": "Fin",
+    "autorefreshInterval": "Intervalle de rafraîchissement automatique",
+    "displayRecords": "Afficher les enregistrements",
+    "isDoubleHeight": "Hauteur 2x",
+    "enabledScopeList": "Afficher",
+    "users": "Utilisateurs"
+  },
+  "options": {
+    "mode": {
+      "agendaWeek": "Semaine (agenda)",
+      "basicWeek": "Semaine",
+      "month": "Mois",
+      "basicDay": "Jour",
+      "agendaDay": "Jour (calendrier)",
+      "timeline": "Plage de temps"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "width": "Largeur (%)",
+    "link": "Lien"
+  },
+  "options": {
+    "align": {
+      "left": "Gauche",
+      "right": "Droite"
+    }
+  }
+}

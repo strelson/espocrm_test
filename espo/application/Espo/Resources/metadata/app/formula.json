@@ -1,0 +1,184 @@
+{
+    "functionList": [
+        {
+            "name": "ifThenElse",
+            "insertText": "ifThenElse(CONDITION, CONSEQUENT, ALTERNATIVE)"
+        },
+        {
+            "name": "ifThen",
+            "insertText": "ifThen(CONDITION, CONSEQUENT)"
+        },
+        {
+            "name": "string\\concatenate",
+            "insertText": "string\\concatenate(STRING_1, STRING_2)"
+        },
+        {
+            "name": "string\\substring",
+            "insertText": "string\\substring(STRING, START, LENGTH)"
+        },
+        {
+            "name": "string\\contains",
+            "insertText": "string\\contains(STRING, NEEDLE)"
+        },
+        {
+            "name": "string\\test",
+            "insertText": "string\\test(STRING, REGULAR_EXPRESSION)"
+        },
+        {
+            "name": "string\\length",
+            "insertText": "string\\length(STRING)"
+        },
+        {
+            "name": "string\\trim",
+            "insertText": "string\\trim(STRING)"
+        },
+        {
+            "name": "string\\lowerCase",
+            "insertText": "string\\lowerCase(STRING)"
+        },
+        {
+            "name": "string\\upperCase",
+            "insertText": "string\\upperCase(STRING)"
+        },
+        {
+            "name": "datetime\\today",
+            "insertText": "datetime\\today()"
+        },
+        {
+            "name": "datetime\\now",
+            "insertText": "datetime\\now()"
+        },
+        {
+            "name": "datetime\\format",
+            "insertText": "datetime\\format(VALUE)"
+        },
+        {
+            "name": "datetime\\date",
+            "insertText": "datetime\\date(VALUE)"
+        },
+        {
+            "name": "datetime\\month",
+            "insertText": "datetime\\month(VALUE)"
+        },
+        {
+            "name": "datetime\\year",
+            "insertText": "datetime\\year(VALUE)"
+        },
+        {
+            "name": "datetime\\hour",
+            "insertText": "datetime\\hour(VALUE)"
+        },
+        {
+            "name": "datetime\\minute",
+            "insertText": "datetime\\minute(VALUE)"
+        },
+        {
+            "name": "datetime\\dayOfWeek",
+            "insertText": "datetime\\dayOfWeek(VALUE)"
+        },
+        {
+            "name": "datetime\\addMinutes",
+            "insertText": "datetime\\addMinutes(VALUE, MINUTES)"
+        },
+        {
+            "name": "datetime\\addHours",
+            "insertText": "datetime\\addHours(VALUE, HOURS)"
+        },
+        {
+            "name": "datetime\\addDays",
+            "insertText": "datetime\\addDays(VALUE, DAYS)"
+        },
+        {
+            "name": "datetime\\addWeeks",
+            "insertText": "datetime\\addWeeks(VALUE, WEEKS)"
+        },
+        {
+            "name": "datetime\\addMonths",
+            "insertText": "datetime\\addMonths(VALUE, MONTHS)"
+        },
+        {
+            "name": "datetime\\addYears",
+            "insertText": "datetime\\addYears(VALUE, YEARS)"
+        },
+        {
+            "name": "datetime\\diff",
+            "insertText": "datetime\\diff(VALUE_1, VALUE_2, INTERVAL_TYPE)"
+        },
+        {
+            "name": "number\\format",
+            "insertText": "number\\format(VALUE)"
+        },
+        {
+            "name": "number\\abs",
+            "insertText": "number\\abs(VALUE)"
+        },
+        {
+            "name": "number\\round",
+            "insertText": "number\\round(VALUE, PRECISION)"
+        },
+        {
+            "name": "number\\floor",
+            "insertText": "number\\floor(VALUE)"
+        },
+        {
+            "name": "number\\ceil",
+            "insertText": "number\\ceil(VALUE)"
+        },
+        {
+            "name": "entity\\isNew",
+            "insertText": "entity\\isNew()"
+        },
+        {
+            "name": "entity\\isAttributeChanged",
+            "insertText": "entity\\isAttributeChanged(ATTRIBUTE)"
+        },
+        {
+            "name": "entity\\isAttributeNotChanged",
+            "insertText": "entity\\isAttributeNotChanged(ATTRIBUTE)"
+        },
+        {
+            "name": "entity\\attribute",
+            "insertText": "entity\\attribute(ATTRIBUTE)"
+        },
+        {
+            "name": "entity\\attributeFetched",
+            "insertText": "entity\\attributeFetched(ATTRIBUTE)"
+        },
+        {
+            "name": "entity\\setAttribute",
+            "insertText": "entity\\setAttribute(ATTRIBUTE, VALUE)"
+        },
+        {
+            "name": "entity\\addLinkMultipleId",
+            "insertText": "entity\\addLinkMultipleId(LINK, ID)"
+        },
+        {
+            "name": "entity\\hasLinkMultipleId",
+            "insertText": "entity\\hasLinkMultipleId(LINK, ID)"
+        },
+        {
+            "name": "entity\\isRelated",
+            "insertText": "entity\\isRelated(LINK, ID)"
+        },
+        {
+            "name": "entity\\sumRelated",
+            "insertText": "entity\\sumRelated(LINK, FIELD, FILTER)"
+        },
+        {
+            "name": "entity\\countRelated",
+            "insertText": "entity\\countRelated(LINK, FILTER)"
+        },
+        {
+            "name": "record\\exists",
+            "insertText": "record\\exists(ENTITY_TYPE, KEY, VALUE)"
+        },
+        {
+            "name": "record\\count",
+            "insertText": "record\\count(ENTITY_TYPE, KEY, VALUE)"
+        },
+        {
+            "name": "env\\userAttribute",
+            "insertText": "env\\userAttribute(ATTRIBUTE)"
+        }
+    ]
+}

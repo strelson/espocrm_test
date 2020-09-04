@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "name": "Nazwa",
+    "isHtml": "Format HTML",
+    "body": "Treść",
+    "subject": "Temat",
+    "attachments": "Załączniki",
+    "category": "Katgoria"
+  },
+  "labels": {
+    "Create EmailTemplate": "Utwórz Szkic wiadomości"
+  },
+  "tooltips": {
+    "oneOff": "Sprawdź, czy będziesz używać tego szablonu tylko raz (np w poczcie masowej)."
+  },
+  "presetFilters": {
+    "actual": "Bieżący"
+  },
+  "placeholderTexts": {
+    "today": "Dzisiejsza data",
+    "now": "Obecna data i czas"
+  }
+}

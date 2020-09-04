@@ -1,0 +1,28 @@
+{
+  "fields": {
+    "from": "Van",
+    "to": "Naar",
+    "subject": "Onderwerp",
+    "bodyContains": "Bericht bevat",
+    "action": "Actie",
+    "isGlobal": "Is globaal",
+    "emailFolder": "Map"
+  },
+  "tooltips": {
+    "from": "E-mails being sent from the specified address. Leave empty if not needed.",
+    "to": "E-mails being sent to the specified address. Leave empty if not needed.",
+    "name": "Just a name of the filter.",
+    "subject": "Use wildcard *:\n\ntext* - starts with text,\n*text* - contains text,\n*text - ends with text.",
+    "bodyContains": "De inhoud van de e-mail bevat een van de opgegeven woorden of zinnen.",
+    "isGlobal": "Past dit filter toe op alle e-mails die binnenkomen op het systeem."
+  },
+  "labels": {
+    "Emails": "E-mails"
+  },
+  "options": {
+    "action": {
+      "Skip": "Negeren",
+      "Move to Folder": "Zet in map"
+    }
+  }
+}

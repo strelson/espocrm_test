@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "user": "Gebruiker",
+    "action": "Actie",
+    "createdAt": "Datum",
+    "target": "Doelwit",
+    "targetType": "Doelwit Type",
+    "authToken": "Auth Sleutel",
+    "ipAddress": "IP adres",
+    "userType": "Type gebruiker"
+  },
+  "links": {
+    "authToken": "Auth Sleutel",
+    "user": "Gebruiker",
+    "target": "Doelwit"
+  },
+  "presetFilters": {
+    "onlyMy": "Alleen mijn"
+  },
+  "options": {
+    "action": {
+      "read": "Lezen",
+      "delete": "Verwijder",
+      "create": "Creëren"
+    }
+  }
+}

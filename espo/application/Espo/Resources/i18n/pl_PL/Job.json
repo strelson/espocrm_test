@@ -1,0 +1,18 @@
+{
+  "fields": {
+    "executeTime": "Wykonaj o",
+    "attempts": "Pozostałe próby",
+    "scheduledJob": "Zaplanowane zadanie",
+    "method": "Method",
+    "executedAt": "Wykonano",
+    "startedAt": "Rozpoczęto",
+    "number": "Numer",
+    "queue": "Kolejka"
+  },
+  "options": {
+    "status": {
+      "Pending": "Oczekiwanie",
+      "Success": "Sukces"
+    }
+  }
+}

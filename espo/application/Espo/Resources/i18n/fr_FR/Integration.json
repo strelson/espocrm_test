@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "enabled": "Activé"
+  },
+  "messages": {
+    "selectIntegration": "Sélectionnez une intégration à partir du menu.",
+    "noIntegrations": "Aucune intégration n'est disponible."
+  }
+}

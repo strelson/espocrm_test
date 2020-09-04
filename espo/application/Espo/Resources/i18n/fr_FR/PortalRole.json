@@ -1,0 +1,9 @@
+{
+  "links": {
+    "users": "Utilisateurs"
+  },
+  "labels": {
+    "Access": "Accès",
+    "Create PortalRole": "Créer un rôle Portail"
+  }
+}

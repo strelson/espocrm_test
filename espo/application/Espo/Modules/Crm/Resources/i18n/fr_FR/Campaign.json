@@ -1,0 +1,63 @@
+{
+  "fields": {
+    "name": "Nom",
+    "status": "Statut",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "targetLists": "Listes de cibles",
+    "excludingTargetLists": "Exclure les listes de cibles",
+    "sentCount": "Envoyé",
+    "openedCount": "Ouvert",
+    "clickedCount": "Cliqué",
+    "optedOutCount": "Désinscrit",
+    "bouncedCount": "Renvoyé",
+    "hardBouncedCount": "Rejeté fortement",
+    "softBouncedCount": "Rejeté",
+    "leadCreatedCount": "Prospects créés",
+    "revenue": "Revenu",
+    "revenueConverted": "Revenu (converti)",
+    "budgetConverted": "Budget (converti)"
+  },
+  "links": {
+    "targetLists": "Listes de cibles",
+    "excludingTargetLists": "Excluant les listes de cibles",
+    "accounts": "Comptes",
+    "leads": "Prospects",
+    "opportunities": "Opportunités",
+    "campaignLogRecords": "Logs",
+    "massEmails": "Emails groupés"
+  },
+  "options": {
+    "type": {
+      "Television": "Télévision"
+    },
+    "status": {
+      "Active": "Actif",
+      "Inactive": "Inactif",
+      "Complete": "Terminer"
+    }
+  },
+  "labels": {
+    "Create Campaign": "Créer une campagne",
+    "Target Lists": "Listes de cibles",
+    "Statistics": "Statistiques",
+    "hard": "fort",
+    "soft": "faible",
+    "Unsubscribe": "Se désinscrire",
+    "Mass Emails": "Emails groupés",
+    "Email Templates": "Modèles d'email",
+    "Unsubscribe again": "Se re-désabonner",
+    "Subscribe again": "Se réinscrire"
+  },
+  "presetFilters": {
+    "active": "Actif"
+  },
+  "messages": {
+    "unsubscribed": "Vous avez été désinscrit de notre liste d'envoi",
+    "subscribedAgain": "Vous vous êtes réinscrit."
+  },
+  "tooltips": {
+    "targetLists": "Cibles devant recevoir les messages",
+    "excludingTargetLists": "Cibles ne devant pas recevoir les messages"
+  }
+}

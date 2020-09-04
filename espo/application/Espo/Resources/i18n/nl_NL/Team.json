@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "name": "Record Naam",
+    "roles": "Functies",
+    "positionList": "Overzichtlijst"
+  },
+  "links": {
+    "users": "Gebruikers",
+    "notes": "Notities",
+    "roles": "Functies",
+    "inboundEmails": "Groep e-mailaccounts"
+  },
+  "tooltips": {
+    "roles": "Alle gebruikers van deze groep krijgen de rechten uit de geselecteerde rollen.",
+    "positionList": "Beschikbare functies in dit team. Zoals Verkoop, Manager ed."
+  },
+  "labels": {
+    "Create Team": "Groep Aanmaken"
+  }
+}

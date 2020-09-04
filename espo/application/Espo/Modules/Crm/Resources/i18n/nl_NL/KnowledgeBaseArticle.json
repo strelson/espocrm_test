@@ -1,0 +1,46 @@
+{
+  "labels": {
+    "Create KnowledgeBaseArticle": "Artikel maken",
+    "Any": "elk",
+    "Send in Email": "Stuur een e-mail",
+    "Move Up": "Naar boven",
+    "Move Down": "Naar beneden",
+    "Move to Top": "Verplaats naar boven",
+    "Move to Bottom": "Verplaats naar beneden"
+  },
+  "fields": {
+    "name": "Naam",
+    "status": "status",
+    "attachments": "Bijlagen",
+    "publishDate": "Publiceer datum",
+    "expirationDate": "vervaldatum",
+    "description": "Beschrijving",
+    "body": "Inhoud",
+    "categories": "Categorieën",
+    "language": "Taal",
+    "portals": "portalen"
+  },
+  "links": {
+    "cases": "Tickets",
+    "opportunities": "Kansen",
+    "categories": "Categorieën",
+    "portals": "portalen"
+  },
+  "options": {
+    "status": {
+      "In Review": "In beoordeling",
+      "Draft": "Concept",
+      "Archived": "gearchiveerd",
+      "Published": "Gepubliceerd"
+    },
+    "type": {
+      "Article": "Artikel"
+    }
+  },
+  "presetFilters": {
+    "published": "Gepubliceerd"
+  },
+  "tooltips": {
+    "portals": "Artikel is alleen beschikbaar in bepaalde portalen."
+  }
+}

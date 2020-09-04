@@ -1,0 +1,40 @@
+{
+  "fields": {
+    "name": "Record Naam",
+    "storeSentEmails": "Opslaan verzonden E-mails",
+    "startAt": "Start Datum",
+    "fromAddress": "Van Adres",
+    "fromName": "Van Naam",
+    "emailTemplate": "E-mail Template",
+    "targetLists": "Doellijsten",
+    "smtpAccount": "SMTP-account"
+  },
+  "links": {
+    "targetLists": "Doellijsten",
+    "emailTemplate": "E-mail Template"
+  },
+  "options": {
+    "status": {
+      "Draft": "Concept",
+      "Pending": "In afwachting",
+      "In Process": "In Behandeling",
+      "Complete": "Compleet",
+      "Canceled": "Geannuleerd",
+      "Failed": "Mislukt"
+    }
+  },
+  "tooltips": {
+    "targetLists": "Doelen die berichten zouden moeten ontvangen.",
+    "excludingTargetLists": "Doelen die geen berichten mogen ontvangen.",
+    "storeSentEmails": "E-mails worden opgeslagen in CRM."
+  },
+  "presetFilters": {
+    "actual": "Werkelijk",
+    "complete": "Compleet"
+  },
+  "labels": {
+    "System SMTP": "Systeem SMTP",
+    "system": "systeem",
+    "group": "groep"
+  }
+}

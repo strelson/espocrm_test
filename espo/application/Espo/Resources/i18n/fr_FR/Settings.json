@@ -1,0 +1,70 @@
+{
+  "fields": {
+    "useCache": "Utiliser la mise en cache",
+    "dateFormat": "Format de la date",
+    "timeFormat": "Format horaire",
+    "timeZone": "Fuseau horaire",
+    "weekStart": "Premier jour de la semaine",
+    "thousandSeparator": "Séparateur de millier",
+    "decimalMark": "Symbole décimal",
+    "defaultCurrency": "Devise par défaut",
+    "baseCurrency": "Devise de base",
+    "currencyRates": "Taux des devises",
+    "currencyList": "Liste des devises",
+    "language": "Langue",
+    "companyLogo": "Logo",
+    "smtpServer": "Serveur",
+    "smtpSecurity": "Sécurité",
+    "ldapSecurity": "Sécurité",
+    "smtpUsername": "Nom d'utilisateur",
+    "smtpPassword": "Mot de passe",
+    "ldapPassword": "Mot de passe",
+    "outboundEmailFromName": "De",
+    "outboundEmailFromAddress": "Depuis l'adresse",
+    "outboundEmailIsShared": "Est partagé",
+    "recordsPerPage": "Enregistrements par page",
+    "recordsPerPageSmall": "Enregistrements par page (réduits)",
+    "tabList": "Liste des onglets",
+    "quickCreateList": "Liste des créations rapides",
+    "exportDelimiter": "Délimitant en exportation",
+    "globalSearchEntityList": "Liste des entités pour la recherche global",
+    "authenticationMethod": "Méthode d'authentification",
+    "ldapHost": "Hôte",
+    "ldapAccountCanonicalForm": "Compte forme canonique",
+    "ldapAccountDomainName": "Compte du nom de domaine",
+    "ldapCreateEspoUser": "Créer un utilisateur dans EspoCRM",
+    "ldapUserLoginFilter": "Filtre des connexions utilisateur",
+    "ldapAccountDomainNameShort": "Compte du nom de domaine réduit",
+    "ldapOptReferrals": "Abonnés parrainés",
+    "exportDisabled": "Désactiver l'Export (seul l'administrateur pourra le faire)",
+    "b2cMode": "Mode B2C",
+    "avatarsDisabled": "Désactiver les avatars",
+    "displayListViewRecordCount": "Afficher le Nombre Total (listes)",
+    "theme": "Thème",
+    "userThemesDisabled": "Désactiver les thèmes utilisateur",
+    "emailMessageMaxSize": "Taille maximale d'Emails (Mo)",
+    "siteUrl": "URL du site",
+    "massEmailMaxPerHourCount": "Nombre maximum d'Emails par heure",
+    "maxEmailAccountCount": "Nombre maximum de comptes Emails personnels par utilisateur"
+  },
+  "options": {
+    "weekStart": {
+      "0": "Dimanche",
+      "1": "Lundi"
+    }
+  },
+  "tooltips": {
+    "recordsPerPageSmall": "Nombre d'enregistrements dans les panneaux de relations.",
+    "followCreatedEntities": "Les utilisateurs suivront automatiquement leurs entrées",
+    "userThemesDisabled": "Si coché alors les utilisateurs ne pourront pas sélectionner un autre thème"
+  },
+  "labels": {
+    "System": "Système",
+    "Locale": "Local",
+    "In-app Notifications": "Notifications internes",
+    "Email Notifications": "Notifications par email",
+    "Currency Settings": "Paramètres de devises",
+    "Currency Rates": "Taux des devises",
+    "Mass Email": "Emails groupés"
+  }
+}

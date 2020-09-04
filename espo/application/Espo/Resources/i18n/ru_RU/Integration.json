@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "enabled": "Включено",
+    "clientId": "Идентификатор клиента (Client ID)",
+    "clientSecret": "Секретный ключ (Client Secret)",
+    "redirectUri": "URI перенаправления (Redirect URI)",
+    "apiKey": "Ключ API"
+  },
+  "messages": {
+    "selectIntegration": "Выберите интерацию из меню.",
+    "noIntegrations": "Нет доступных интергаций."
+  },
+  "titles": {
+    "GoogleMaps": "Google Карты"
+  }
+}

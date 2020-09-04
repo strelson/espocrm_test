@@ -1,0 +1,41 @@
+{
+  "labels": {
+    "Create Document": "Создать документ",
+    "Details": "Описание"
+  },
+  "fields": {
+    "name": "Название",
+    "status": "Статус",
+    "file": "Файл",
+    "type": "Тип",
+    "publishDate": "Опубликован",
+    "expirationDate": "Актуален до",
+    "description": "Описание",
+    "accounts": "Контрагенты",
+    "folder": "Папка"
+  },
+  "links": {
+    "accounts": "Контрагенты",
+    "opportunities": "Сделки",
+    "folder": "Папка",
+    "leads": "Лиды",
+    "contacts": "Контакты"
+  },
+  "options": {
+    "status": {
+      "Active": "Действующий",
+      "Draft": "Черновик",
+      "Expired": "Просрочен",
+      "Canceled": "Отменен"
+    },
+    "type": {
+      "": "Нет",
+      "Contract": "Контракт",
+      "License Agreement": "Лицензионное соглашение"
+    }
+  },
+  "presetFilters": {
+    "active": "Действующий",
+    "draft": "Черновик"
+  }
+}

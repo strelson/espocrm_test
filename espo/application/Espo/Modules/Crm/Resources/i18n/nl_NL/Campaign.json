@@ -1,0 +1,57 @@
+{
+  "fields": {
+    "name": "Record Naam",
+    "description": "Beschrijving",
+    "targetLists": "Doellijsten",
+    "sentCount": "Verstuur",
+    "revenueConverted": "revenue (converted)",
+    "budgetConverted": "Budget (omgezet)",
+    "contactsTemplate": "Contacten-sjabloon",
+    "leadsTemplate": "Leads sjabloon",
+    "accountsTemplate": "Relaties-sjabloon",
+    "usersTemplate": "Gebruikers Sjabloon",
+    "mailMergeOnlyWithAddress": "Records overslaan zonder ingevuld adres",
+    "budgetCurrency": "Budgetvaluta"
+  },
+  "links": {
+    "targetLists": "Doellijsten",
+    "accounts": "Relaties",
+    "contacts": "Contacten",
+    "opportunities": "Kansen",
+    "massEmails": "Mass E-mails",
+    "contactsTemplate": "Contacten-sjabloon",
+    "leadsTemplate": "Leads sjabloon",
+    "accountsTemplate": "Relaties-sjabloon",
+    "usersTemplate": "Gebruikers Sjabloon"
+  },
+  "options": {
+    "type": {
+      "Email": "E-mail"
+    },
+    "status": {
+      "Active": "Actief",
+      "Inactive": "Inactief",
+      "Complete": "Compleet"
+    }
+  },
+  "labels": {
+    "Target Lists": "Doellijsten",
+    "Mass Emails": "Massale E-mails",
+    "Email Templates": "E-mailsjablonen",
+    "Unsubscribe again": "Weer uitschrijven",
+    "Subscribe again": "Abonneer opnieuw",
+    "Create Target List": "Maak een doellijst",
+    "Mail Merge": "Mailmerge",
+    "Generate Mail Merge PDF": "Genereer Mail Merge PDF"
+  },
+  "presetFilters": {
+    "active": "Actief"
+  },
+  "tooltips": {
+    "targetLists": "Doelen die berichten zouden moeten ontvangen.",
+    "excludingTargetLists": "Doelen die geen berichten mogen ontvangen."
+  },
+  "messages": {
+    "subscribedAgain": "U bent opnieuw ingeschreven."
+  }
+}

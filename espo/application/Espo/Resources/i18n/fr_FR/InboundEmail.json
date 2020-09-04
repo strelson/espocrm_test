@@ -1,0 +1,43 @@
+{
+  "fields": {
+    "name": "Nom",
+    "emailAddress": "Adresse email",
+    "status": "Statut",
+    "assignToUser": "Assigner à l'utilisateur",
+    "host": "Hôte",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "monitoredFolders": "Dossiers surveillés",
+    "trashFolder": "Dossier Corbeille",
+    "createCase": "Créer un ticket",
+    "reply": "Réponse automatique",
+    "caseDistribution": "Distribution des tickets",
+    "replyEmailTemplate": "Modèle de réponse email",
+    "replyFromAddress": "Adresse de réponse",
+    "replyToAddress": "Adresse de  destination",
+    "replyFromName": "Nom pour répondre",
+    "addAllTeamUsers": "Pour tous les membres de l'équipe"
+  },
+  "tooltips": {
+    "createCase": "Création automatique de tickets à partir des emails entrant"
+  },
+  "links": {
+    "filters": "Filtre"
+  },
+  "options": {
+    "status": {
+      "Active": "Actif",
+      "Inactive": "Inactif"
+    },
+    "caseDistribution": {
+      "": "Aucun"
+    }
+  },
+  "labels": {
+    "Create InboundEmail": "Ajouter un compte email",
+    "Main": "Principal"
+  },
+  "messages": {
+    "couldNotConnectToImap": "Impossible de se connecter au serveur IMAP"
+  }
+}

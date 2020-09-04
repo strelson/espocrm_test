@@ -1,0 +1,49 @@
+{
+  "fields": {
+    "name": "Record Naam",
+    "emailAddress": "E-mail",
+    "accountRole": "Titel",
+    "account": "Relatie",
+    "accounts": "Relaties",
+    "phoneNumber": "Telefoon",
+    "accountType": "Relatie Type",
+    "doNotCall": "Niet Bellen",
+    "address": "Adres",
+    "opportunityRole": "Functie Kansen",
+    "description": "Beschrijving",
+    "targetLists": "Doellijsten",
+    "portalUser": "Portaalgebruiker",
+    "originalLead": "Oorspronkelijke lead",
+    "acceptanceStatus": "Acceptatiestatus",
+    "accountIsInactive": "Relatie inactief",
+    "acceptanceStatusMeetings": "Acceptatiestatus (vergaderingen)",
+    "acceptanceStatusCalls": "Acceptatiestatus (oproepen)",
+    "title": "Primair relatie titel"
+  },
+  "links": {
+    "opportunities": "Kansen",
+    "cases": "Tickets",
+    "targetLists": "Doellijsten",
+    "account": "Relatie (Primary)",
+    "accounts": "Relatie",
+    "casesPrimary": "Tickets (Primary)",
+    "portalUser": "Portaalgebruiker",
+    "originalLead": "Oorspronkelijke lead",
+    "documents": "Documenten",
+    "tasksPrimary": "Taken (uitgebreid)"
+  },
+  "labels": {
+    "Create Contact": "Contact Aanmaken"
+  },
+  "options": {
+    "opportunityRole": {
+      "Decision Maker": "Beslisser",
+      "Influencer": "Beinvloeder"
+    }
+  },
+  "presetFilters": {
+    "portalUsers": "Portaal-gebruikers",
+    "notPortalUsers": "Geen portaalgebruikers",
+    "accountActive": "Actief"
+  }
+}

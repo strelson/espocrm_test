@@ -1,0 +1,34 @@
+{
+  "fields": {
+    "name": "Nom",
+    "status": "Statut",
+    "host": "Hôte",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "monitoredFolders": "Dossiers surveillés",
+    "fetchSince": "Apporté depuis",
+    "emailAddress": "Adresse email",
+    "sentFolder": "Dossier d'envoi",
+    "storeSentEmails": "Conserver les emails envoyés",
+    "keepFetchedEmailsUnread": "Conserver les emails reçu non lus"
+  },
+  "links": {
+    "filters": "Filtres"
+  },
+  "options": {
+    "status": {
+      "Active": "Actif",
+      "Inactive": "Inactif"
+    }
+  },
+  "labels": {
+    "Create EmailAccount": "Créer un compte email",
+    "Main": "Principal",
+    "Test Connection": "Tester la connexion",
+    "Send Test Email": "Envoyer un message de test"
+  },
+  "messages": {
+    "couldNotConnectToImap": "Impossible de se connecter au serveur IMAP",
+    "connectionIsOk": "Connexion établie"
+  }
+}
